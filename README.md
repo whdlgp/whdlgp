@@ -25,9 +25,7 @@
     <td nowrap valign="top">
       <strong>Computer Vision &amp; Recognition</strong><br><br>
       <img src="https://img.shields.io/badge/OpenCV-263449?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV">
-      <img src="https://img.shields.io/badge/YOLO-263449?style=flat-square" alt="YOLO">
-      <img src="https://img.shields.io/badge/EasyOCR-263449?style=flat-square" alt="EasyOCR">
-      <img src="https://img.shields.io/badge/FAISS-263449?style=flat-square" alt="FAISS">
+      <img src="https://img.shields.io/badge/Object Detection-263449?style=flat-square" alt="Object Detection">
     </td>
   </tr>
   <tr>
