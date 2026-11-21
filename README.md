@@ -15,18 +15,14 @@
 
 <h2>TECHNOLOGIES</h2>
 
-<table width="855" border="1" cellpadding="10" cellspacing="0">
-  <colgroup>
-    <col width="50%">
-    <col width="50%">
-  </colgroup>
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
+    <td nowrap valign="top">
       <strong>Programming Languages</strong><br><br>
       <img src="https://img.shields.io/badge/C%2B%2B-263449?style=flat-square&logo=cplusplus&logoColor=659AD2" alt="C++">
       <img src="https://img.shields.io/badge/Python-263449?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
     </td>
-    <td width="50%" valign="top">
+    <td nowrap valign="top">
       <strong>Computer Vision &amp; Recognition</strong><br><br>
       <img src="https://img.shields.io/badge/OpenCV-263449?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV">
       <img src="https://img.shields.io/badge/YOLO-263449?style=flat-square" alt="YOLO">
@@ -35,14 +31,14 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td nowrap valign="top">
       <strong>Deep Learning &amp; Inference</strong><br><br>
       <img src="https://img.shields.io/badge/PyTorch-263449?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
       <img src="https://img.shields.io/badge/Darknet-263449?style=flat-square" alt="Darknet">
       <img src="https://img.shields.io/badge/ONNX_Runtime-263449?style=flat-square&logo=onnx&logoColor=005CED" alt="ONNX Runtime">
       <img src="https://img.shields.io/badge/TensorRT-263449?style=flat-square&logo=nvidia&logoColor=76B900" alt="TensorRT">
     </td>
-    <td width="50%" valign="top">
+    <td nowrap valign="top">
       <strong>GPU &amp; Video Processing</strong><br><br>
       <img src="https://img.shields.io/badge/CUDA-263449?style=flat-square&logo=nvidia&logoColor=76B900" alt="CUDA">
       <img src="https://img.shields.io/badge/cuDNN-263449?style=flat-square&logo=nvidia&logoColor=76B900" alt="cuDNN">
@@ -50,14 +46,14 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td nowrap valign="top">
       <strong>Embedded Systems &amp; Edge AI</strong><br><br>
       <img src="https://img.shields.io/badge/Jetson_Orin-263449?style=flat-square&logo=nvidia&logoColor=76B900" alt="NVIDIA Jetson Orin Nano">
       <img src="https://img.shields.io/badge/RKNN-263449?style=flat-square" alt="Rockchip RKNN">
       <img src="https://img.shields.io/badge/Embedded_Linux-263449?style=flat-square&logo=linux&logoColor=FCC624" alt="Embedded Linux">
       <img src="https://img.shields.io/badge/NPU_Inference-263449?style=flat-square" alt="NPU Inference">
     </td>
-    <td width="50%" valign="top">
+    <td nowrap valign="top">
       <strong>Build Systems &amp; Toolchains</strong><br><br>
       <img src="https://img.shields.io/badge/CMake-263449?style=flat-square&logo=cmake&logoColor=064F8C" alt="CMake">
       <img src="https://img.shields.io/badge/GCC-263449?style=flat-square&logo=gnu&logoColor=A42E2B" alt="GCC">
@@ -68,11 +64,7 @@
 
 <h2>GITHUB ACTIVITY</h2>
 
-<table width="855" border="1" cellpadding="10" cellspacing="0">
-  <colgroup>
-    <col width="50%">
-    <col width="50%">
-  </colgroup>
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
   <tr>
     <td width="50%" bgcolor="#0D1526" valign="middle" align="center">
       <img
@@ -94,7 +86,6 @@
 <h2>RECENT WORK</h2>
 
 <!-- PROJECTS:START -->
-<table width="855" border="1" cellpadding="12" cellspacing="0"><tr><td width="50%" valign="top"><strong><a href="https://github.com/whdlgp/MyDets">MyDets</a></strong><br><br>My object detection framework aiming to be copyleft-free<br><br><small><code>Python</code> &nbsp; Stars: 0 &nbsp; Pushed: 2026-11-20</small></td><td width="50%" valign="top"><strong><a href="https://github.com/whdlgp/DIBR_spherical">DIBR_spherical</a></strong><br><br>A Python implementation of Spherical(ERP) image DIBR<br><br><small><code>Python</code> &nbsp; Stars: 0 &nbsp; Pushed: 2026-10-31</small></td></tr><tr><td width="50%" valign="top"><strong><a href="https://github.com/whdlgp/RMATester">RMATester</a></strong><br><br>A RMA(Rate Monotonic Analysis) implementation and testing tool<br><br><small><code>HTML</code> &nbsp; Stars: 0 &nbsp; Pushed: 2026-10-27</small></td><td width="50%" valign="top"><strong><a href="https://github.com/whdlgp/DA360_inference">DA360_inference</a></strong><br><br>An unofficial inference-only implementation of DA360 for 360° equirectangular depth estimation<br><br><small><code>Python</code> &nbsp; Stars: 0 &nbsp; Pushed: 2026-10-21</small></td></tr><tr><td width="50%" valign="top"><strong><a href="https://github.com/whdlgp/DIBR_Legacy">DIBR_Legacy</a></strong><br><br>A Python reimplementation of my legacy MATLAB DIBR project.<br><br><small><code>Python</code> &nbsp; Stars: 0 &nbsp; Pushed: 2026-10-17</small></td><td width="50%" valign="top"><strong><a href="https://github.com/whdlgp/matlab_dibr_test">matlab_dibr_test</a></strong><br><br>Test source for depth image based rendering<br><br><small><code>MATLAB</code> &nbsp; Stars: 3 &nbsp; Pushed: 2026-10-10</small></td></tr></table>
 <!-- PROJECTS:END -->
 
 <p>
